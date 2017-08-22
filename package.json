@@ -1,0 +1,15 @@
+{
+  "name": "sumito",
+  "version": "1.0.0",
+  "description": "prueba heroku con el rey de la noshee",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
